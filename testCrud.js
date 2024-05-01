@@ -34,4 +34,4 @@ async function deleteRecords() {
 // deleteRecords();
 // updateRecords();
 // fetchRecords();
-// createRecords();
+createRecords();
